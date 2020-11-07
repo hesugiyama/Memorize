@@ -2,7 +2,7 @@
 
 <h4 align="center">
 <img src="https://web.stanford.edu/group/webdev/identity/public/img/stanford-university-stacked.png" width="250px" /><br>
- <b>CS193p- Developing Applications for iOS using SwiftUI</b> 📚
+ <b>CS193p - Developing Applications for iOS using SwiftUI</b> 📚
 </h4>
 
 <br>
